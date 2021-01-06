@@ -1,6 +1,19 @@
-.shrt_head {
-  color: darkgoldenrod;
+h1 {
+  font-size: 50px;
   text-align: center;
-  font-size: 20px ;
+  color: darkred;
+}
+
+body {
+  background-image: url(assets/Photos/Background/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed
+}
+
+h1 {
+  color: darkgoldenrod;
+  background: black;
+  
   
 }
